@@ -1,6 +1,6 @@
 # Homework 7 - Finn Bishop - COMP 484
 
-A simple project with a few basic pages about my favorite animes!
+Populated HTML and body from the previous assignment. 
 
 ## 🚀 Live Demo
 
